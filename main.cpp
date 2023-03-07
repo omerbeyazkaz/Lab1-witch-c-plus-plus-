@@ -13,7 +13,7 @@ int main() {
     std::cin>>studentId;
     std::cout << "your studentID is : " << studentId;
 
-    ////////////////////////////////////////// q2
+    ////////////////////////////////////////// question 2
      int var1 ;
      int var2;
      cout<<"\nPlease enter a number ";
@@ -26,7 +26,7 @@ int main() {
     std::cout <<"\n" + to_string(sum);
     std::cout<<"\n " + to_string(diff);
     std::cout<<"\n " + to_string(prod);
-    //////////////////////////////////// q3
+    //////////////////////////////////// question 3
 
     cout<<"\nWhat is your name ";
     string name1 ;
@@ -50,7 +50,7 @@ int main() {
 
      cout<<"\nTotal score = " + to_string(totalScore);
 
-     ///////////////////////////////////q4
+     ///////////////////////////////////question 4 
 
 
     ::printf("\n*\n" "**\n" "***\n" "**\n" "*");
